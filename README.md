@@ -1,6 +1,6 @@
 # CUSC "Ethical" Hacking Resources
 ## Reading material:
- - [The Hacking Methodology]
+ - [The Hacking Methodology (WIP)]
  - 
 ## Video content:
  - 
@@ -9,4 +9,4 @@
 ## Misc.:
  - 
 
-[The Hacking Methodology]: <https://github.com/kieran-walker-0/cuscs/blob/master/methodology.md>
+[The Hacking Methodology (WIP)]: <https://github.com/kieran-walker-0/cuscs/blob/master/methodology.md>
