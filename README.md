@@ -1,12 +1,15 @@
 # CUSC "Ethical" Hacking Resources
 ## Reading material:
- - There are mountains of free PDFs online, the society Discord server 
+ - There are mountains of free PDFs online, use the society's Discord server to get a collection of them.
  - [The Hacking Methodology (WIP)] - A brief overview of how hacking works.
  - [My CTF Walkthroughs] - For a better understanding of how CTF challenges work.
+ - [Phrack Magazine]: One of the most popular hacker zines, first issue published in 1985.
 ## Video & podcast content:
  - [Cybrary] - Free video courses on a range of IT subjects, many are security focused.
  - [ThugCrowd] - Hacker podcast, new episode every Tuesday at 9:30PM EST
  - [Darknet Diaries] - Podcast covering true stories about hacking, malware and privacy.
+ - [DEF CON Media Server] - Directory of [DEF CON] talks & videos.
+ - [Black Hat Conference Archives] - Archived [Black Hat] talks.
  - [LiveOverflow] - Hacker who plays CTFs and does a lot of reverse engineering (YouTube).
 ## Web resources:
  - [Exploit Database] - Massive updated database of publicly available exploits.
@@ -34,3 +37,8 @@
 [VulnHub]: <https://www.vulnhub.com/>
 [HackTheBox]: <https://www.hackthebox.eu/>
 [Darknet Diaries]: <https://darknetdiaries.com/>
+[DEF CON Media Server]: <https://media.defcon.org/>
+[DEF CON]: <https://www.defcon.org/>
+[Black Hat Conference Archives]: <https://www.blackhat.com/html/archives.html>
+[Black Hat]: <https://www.blackhat.com/>
+[Phrack Magazine]: <http://www.phrack.org/>
