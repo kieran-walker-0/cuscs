@@ -1,6 +1,6 @@
 # CUSC "Ethical" Hacking Resources
 ## Reading material:
- - [The Hacking Methodology (WIP)]
+ - [The Hacking Methodology (WIP)] - A brief overview of how hacking works.
  - 
 ## Video content:
  - 
