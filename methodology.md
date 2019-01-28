@@ -73,3 +73,4 @@ about the technologies installed on your target (e.g. version numbers, operating
 [Shodan]: <https://www.shodan.io/>
 [Nmap]: <https://nmap.org/>
 [Wireshark]: <https://www.wireshark.org/index.html#aboutWS>
+[Recon / Intel. Gathering]: <https://github.com/kieran-walker-0/cuscs/blob/master/methodology.md#recon--intel-gathering>
