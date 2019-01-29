@@ -48,6 +48,7 @@ about the technologies installed on your target (e.g. version numbers, operating
  - Passively sniffing packets traveling over a public network using Wireshark.
  - Actively scanning for open ports on a system using a tool like Nmap.
  - Searching forums / message boards for a target individual's posts.
+ - Using Dirb to search for hidden directories on a HTTP service.
 
 ### Relevant Concepts & Jargon:
  - *Scope* - Boundaries set for the attacker so a penetration test remains relevant. For example, an attacker may only be allowed to
@@ -66,6 +67,7 @@ about the technologies installed on your target (e.g. version numbers, operating
  - [Shodan]
  - [Nmap]
  - [Wireshark]
+ - [Dirb]
 
 [1]: <http://www.pentest-standard.org/index.php/Intelligence_Gathering#What_it_is>
 [2]: <https://en.wikipedia.org/wiki/Open-source_intelligence>
@@ -73,4 +75,5 @@ about the technologies installed on your target (e.g. version numbers, operating
 [Shodan]: <https://www.shodan.io/>
 [Nmap]: <https://nmap.org/>
 [Wireshark]: <https://www.wireshark.org/index.html#aboutWS>
+[Dirb]: <http://dirb.sourceforge.net/>
 [Recon / Intel. Gathering]: <https://github.com/kieran-walker-0/cuscs/blob/master/methodology.md#recon--intel-gathering>
