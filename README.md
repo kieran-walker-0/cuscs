@@ -18,6 +18,8 @@
  - [HackTheBox] - Online CTF platform, provides a much more realistic environment to simulate pentesting.
  - [HaveIBeenPwned?] - Data breach search engine, does not give out raw data or passwords.
  - [LeakedSource] - Slightly more dubious data breach search engine, allows for username searches and more.
+ - [IntelTechniques] - Various OSINT tools including social media, Email address and username.
+ - [OSINT Framework] - More OSINT tools, including dark web (onion) and threat intel methods.
  - [HashKiller] - Popular hash finder. Supports common hash formats.
  - [HashFinder] - Lesser-known hash finder, proven to be very useful in the past compared to other finders.
 ## Misc.:
@@ -42,3 +44,5 @@
 [Black Hat Conference Archives]: <https://www.blackhat.com/html/archives.html>
 [Black Hat]: <https://www.blackhat.com/>
 [Phrack Magazine]: <http://www.phrack.org/>
+[IntelTechniques]: <https://inteltechniques.com/menu.html>
+[OSINT Framework]: <https://osintframework.com/>
