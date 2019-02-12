@@ -77,7 +77,7 @@ He's even included his own Twitter account, for the clout obviously.
 
 For the sake of time, I won't go into finding SSH keys and backups, but those are out there too.
 
-### Nobody buys books any more
+### Getting free books to level up your hackerman skills
 
 Anybody who's been on the Discord knows about the eBooks that appear out of nowhere, it doesn't even require the effort of "piracy".
 
