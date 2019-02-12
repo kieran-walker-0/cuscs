@@ -59,10 +59,6 @@ You don't always have to pay for these things however, because paste sites exist
 
 Sites such as Pastebin, Ghostbin, DOXbin, Zerobin, Hastebin etc store a hilarious amount of breach data. This is often because hackers like to share their data using anonymous accounts (as is the default on Pastebin), Doxes are also submitted on these sites for the same reason.
 
-Using the dork `site:pastebin.com "NETFLIX"` can be helpful for when you don't fancy paying for Netflix subscriptions:
-
-![netflixacc]
-
 Later on I'll be covering Shodan safaris (finding interesting devices using Shodan),  the same can be done for Pastebin. A "service" known as [PSBDMP] collects Pastebin Dumps that it thinks contain sensitive info:
 
 It's fun to come across kids running each other over Habbo Hotel, introducing Sankru of 'Hatter Gang':
