@@ -84,6 +84,8 @@ You'll get a lot of spam link with that dork, but you'll generally find what you
 
 (Ran out of time because I'm great with preparation, so we wing it from here on out)
 
+SHODAN REPORT: https://www.shodan.io/report/mugjgkwX
+
 
 [nulleddorks]: https://i.imgur.com/C0ny1Hk.png "Source: Nulled.to"
 [hibpexample]: https://i.imgur.com/GVx54m8.png "test@example.com's HIBP results"
